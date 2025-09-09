@@ -3,11 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 import graph
-#Import CSV
-#path1 = input('PATH TO CSV FILE: ')
-#path2 = 'export/' + input('ENTER RESULT CSV FILE NAME: ')
 
-#sep = input('ENTER CSV SEPARATOR (STAY EMPTY IF ","): ')
 paths = {50: 'data/l50.csv', 20:'data/l20.csv', 10:'data/l10.csv'}
 sep =''
 
